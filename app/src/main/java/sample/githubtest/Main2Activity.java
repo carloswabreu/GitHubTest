@@ -19,6 +19,8 @@ public class Main2Activity extends AppCompatActivity {
 
         //More changes
 
+        //several changes after release
+
     }
 
 }
