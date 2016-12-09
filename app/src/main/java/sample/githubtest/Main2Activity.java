@@ -17,6 +17,8 @@ public class Main2Activity extends AppCompatActivity {
 
         //this is a hot fix
 
+        //More changes
+
     }
 
 }
